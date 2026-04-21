@@ -1,0 +1,1 @@
+savedcmd_usb_led_monitor.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /usr/src/linux-headers-6.17.0-20-generic/scripts/module.lds -o usb_led_monitor.ko usb_led_monitor.o usb_led_monitor.mod.o .module-common.o
