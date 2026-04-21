@@ -6,8 +6,8 @@
 
 ## Team Members
 
-| Name | Role |
-|------|------|
+| Name | 
+|------|
 | Phanikrishna N M |
 | Chirag Poojary | 
 | Tejas Gowda | 
